@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Saad charkaoui</title>
+    <link>https://charkao.github.io/portfolio-charkaoui/post/</link>
+    <description>Recent content in Projects on Saad charkaoui</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Feb 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://charkao.github.io/portfolio-charkaoui/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project II: Predictions of contacts between pedestrians in a dense crowd</title>
+      <link>https://charkao.github.io/portfolio-charkaoui/post/project-2/</link>
+      <pubDate>Tue, 01 Jun 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://charkao.github.io/portfolio-charkaoui/post/project-2/</guid>
+      <description>Managing pedestrian flows (in normal or non-normal periods) and minimizing the risks of jostling are major issues in the field of mobility. The goal of my internship is to develop an original device that will allow to solve this issue : a vest to measure contacts and pressures, but also distances, using force sensors as well as ultrasonic sensors.
+1. Introduction:
+As the world&amp;rsquo;s population increases, mass gatherings such as religious or political events, air shows, rock concerts, and outdoor celebrations are becoming more frequent and attracting more and more participants from around the world.</description>
+    </item>
+    
+    <item>
+      <title>Project I: Self-driving car using Reinforcement Learning</title>
+      <link>https://charkao.github.io/portfolio-charkaoui/post/project-1/</link>
+      <pubDate>Sat, 02 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://charkao.github.io/portfolio-charkaoui/post/project-1/</guid>
+      <description>The main objective of this project is to design and implement an autonomous robot that learns to walk by itself using reinforcement learning. This is done by using artificial intelligence and image processing algorithms that allow the robot to move as efficiently as possible.
+  &amp;ndash;
+  1. The hardware:
+ Arduino Romeo Raspberry Pi 4 (integrated WiFi) Pi Camera  2. The software:
+ VNC Viewer : To remotely control the desktop interface of the Raspberry Pi C++ on the Arduino Python + Numpy + OpenCV + Tensorflow on the Raspberry Pi Serial protocol for Arduino &amp;lt;-&amp;gt; Raspberry Pi   3.</description>
+    </item>
+    
+    <item>
+      <title>Project III: Insights into a crime pandemic from people’s comments in a popular news outlet</title>
+      <link>https://charkao.github.io/portfolio-charkaoui/post/project-3/</link>
+      <pubDate>Sun, 30 Aug 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://charkao.github.io/portfolio-charkaoui/post/project-3/</guid>
+      <description>[work in progress&amp;hellip;]</description>
+    </item>
+    
+  </channel>
+</rss>
